@@ -153,7 +153,7 @@ const styles = StyleSheet.create({
     textDecorationLine: "line-through",
   },
   lightTaskTextDoneColor:{
-    color: "#A09CB1",
+    color: '#3D3D4D'
   },
   darkTaskTextDoneColor:{
     color: "#E1E1E6",
